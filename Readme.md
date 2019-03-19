@@ -1,0 +1,4 @@
+# poor mans CI
+#launch image, get newest version of sdk and sample bot:
+#docker run -it -u 0 a8fd5c530c44 --entrypoint /bin/bash npm install @rocket.chat/sdk --save && git clone 
+
